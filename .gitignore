@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+secrets/
+credentials/
+
+# Logs
+*.log
+logs/
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.iso
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.temp
+*.bak
