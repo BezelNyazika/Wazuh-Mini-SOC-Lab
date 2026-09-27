@@ -1,0 +1,4 @@
+<!-- Sanitized example only. Do not paste a live configuration containing secrets. -->
+<ossec_config>
+  <!-- Windows Event Channel collection will be documented here. -->
+</ossec_config>
